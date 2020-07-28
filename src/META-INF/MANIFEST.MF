@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_11-b12 (Oracle Corporation)
+Class-Path: lib/JLargeArrays-1.2.jar lib/JTransforms-3.0.jar lib/ij.ja
+ r
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: unal.od.livefft.LiveFFT_
+
