@@ -1,4 +1,4 @@
-LiveFFT is a plugin filter for [ImageJ](http://imagej.nih.gov/ij/index.html)that allows the live visualization of the Fast Fourier Transform of an image feed.
+LiveFFT is a plugin filter for [ImageJ](http://imagej.nih.gov/ij/index.html) that allows the live visualization of the Fast Fourier Transform of an image feed.
 
 If you are using the plugin and find a bug, please **contact us**.
 
@@ -15,7 +15,9 @@ The installation process is the standard for any ImageJ plugin, download the ".j
 - Carlos Buitrago-Duque [cabuitragod@unal.edu.co](cabuitragod@unal.edu.co)
 
 ---
-![Universidad Nacional de Colombia](images/un.png "Universidad Nacional de Colombia")
-![OD Research Group](images/group-logo.png "OptoDigital Research Group")
+<p align="center">
+  <img src="images/un.png" height=70 hspace="40">
+  <img src="images/group-logo.png" height=70 hspace="40">
+</p>
 
 [LiveFFT](https://github.com/unal-optodigital/LiveFFT) is maintained by [unal-optodigital](https://github.com/unal-optodigital)
