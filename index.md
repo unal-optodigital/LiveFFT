@@ -1,24 +1,21 @@
-***
-### Welcome to GitHub Pages.
-***
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
+LiveFFT is a plugin filter for [ImageJ](http://imagej.nih.gov/ij/index.html)that allows the live visualization of the Fast Fourier Transform of an image feed.
 
-```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-```
+If you are using the plugin and find a bug, please **contact us**.
 
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+### Installation
+The installation process is the standard for any ImageJ plugin, download the ".jar" file and include it in the `imagej/plugins` folder. Please make sure you are running ImageJ 1.48s or superior. 
 
-### Designer Templates
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
+### Changes
+#### Version 1.0, 2020/07
+- Initial release
 
-### Rather Drive Stick?
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+### Contact
+- Pablo Piedrahita-Quintero [jppiedrahitaq@unal.edu.co](mailto:jppiedrahitaq@unal.edu.co)
+- Jorge Garcia-Sucerquia [jigarcia@unal.edu.co](mailto:jigarcia@unal.edu.co)
+- Carlos Buitrago-Duque [cabuitragod@unal.edu.co](cabuitragod@unal.edu.co)
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+---
+![Universidad Nacional de Colombia](images/un.png "Universidad Nacional de Colombia")
+![OD Research Group](images/group-logo.png "OptoDigital Research Group")
 
-### Support or Contact
-Having trouble with Pages? Check out the documentation at https://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+[LiveFFT](https://github.com/unal-optodigital/LiveFFT) is maintained by [unal-optodigital](https://github.com/unal-optodigital)
